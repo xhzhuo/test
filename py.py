@@ -3,5 +3,5 @@ for i in range(1,5):
     if i==4:
         print("i love you")
 <<<<<<< HEAD
-print("not ok！")
+
 print("hahahah")
