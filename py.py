@@ -4,3 +4,4 @@ for i in range(1,5):
         print("i love you")
 
 print("hahaha")
+print("oh my god")
